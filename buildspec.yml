@@ -43,8 +43,8 @@ phases:
 
 artifacts:
   files:
-    - '**/*'
-  base-directory: '.'
+    - online-shop-app.zip
+    - imageDefinitions.json
   discard-paths: no
   exclude-patterns:
     - 'node_modules/**/*'
